@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Take-A-tour-Frontend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SPOTIFY"
+	}
+}
